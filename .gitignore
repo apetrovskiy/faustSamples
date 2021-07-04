@@ -392,3 +392,5 @@ cython_debug/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+all,visualstudiocode,jupyternotebooks
+.metals/metals.h2.db
+.metals/metals.lock.db
